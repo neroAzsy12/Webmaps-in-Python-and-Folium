@@ -6,6 +6,6 @@ usa_volcano and japanese_volcano are txt files that contain some of their own vo
 What this accomplishes, was learning how to use folium as well as pandas and some of their methods in making a webmap.
 map1.py is my first attempt of using some of the volcanoes in the U.S. in order to practice in making webmaps.
 
-map2.py is my second attempt of using some of the volcanoes in Japan, as well as also inserting a link in the popup that may lead to a google search of the volcano.
+map2.py is my second attempt of using some of the volcanoes in Japan, as well as also inserting a link in the popup will lead to a webpage containing more info on the volcano.
 
 The final output for both python files is an html file that has markers of the volcanoes as one layer, while also having the world coded population as another layer
