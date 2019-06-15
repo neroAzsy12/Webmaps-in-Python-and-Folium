@@ -1,0 +1,108 @@
+NAME,TYPE,LAT,LON,ELEV,STATUS,LOCATION,NUMBER
+Abu Volcano Group,Shields,34.5,131.6,641,Active,Honshū,283001
+Niijima,Lava domes,34.397,139.27,432,Active,Izu Islands,284020
+Adatarayama,Stratovolcanoes,37.647,140.281,1728,Active,Honshū,283170
+Kurikomayama,Stratovolcano,38.961,140.788,1627,Active,Honshū,283210
+Kusatsu-Shiranesan,Stratovolcanoes,36.618,138.528,2165,Active,Honshū,283120
+Aira,Caldera,31.593,130.657,1117,Extinct,Kyūshū,282080
+Bandaisan,Stratovolcano,37.601,140.072,1816,Active,Honshū,283160
+Taisetsuzan,Stratovolcanoes,43.664,142.854,2291,Active,Hokkaidō,285060
+Kozushima,Lava domes,34.219,139.153,572,Active,Izu Islands,284030
+Asosan,Caldera,32.884,131.104,1592,Active,Kyūshū,282110
+Zaozan,Stratovolcanoes,38.144,140.44,1841,Active,Honshū,283190
+Akagisan,Stratovolcano,36.56,139.193,1828,Active,Honshū,283130
+Hakusan,Stratovolcano,36.155,136.771,2702,Active,Honshū,283050
+Ontakesan,Stratovolcano,35.893,137.48,3067,Active,Honshū,283040
+Osorezan,Stratovolcano,41.279,141.12,878,Active,Honshū,283290
+Nikko-Shiranesan,Shield,36.799,139.376,2578,Active,Honshū,283140
+Towada,Caldera,40.51,140.88,1011,Active,Honshū,283271
+Kujusan,Stratovolcanoes,33.086,131.249,1791,Active,Kyūshū,282120
+Tokachidake,Stratovolcanoes,43.418,142.686,2077,Active,Honshū,285050
+Kirishimayama,Shield,31.934,130.862,1700,Active,Kyūshū,282090
+Azumayama,Stratovolcanoes,37.735,140.244,1949,Active,Honshū,283180
+Toshima,Stratovolcano,34.52,139.279,508,Active,Izu Islands,284011
+Midagahara,Stratovolcano,36.571,137.59,2621,Active,Honshū,283080
+Fujisan,Stratovolcano,35.361,138.728,3776,Active,Honshū,283030
+Hachijojima,Stratovolcanoes,33.137,139.766,854,Active,Izu Islands,284050
+Izu-Oshima,Stratovolcano,34.724,139.394,758,Active,Izu Islands,284010
+Hiuchigatake,Stratovolcano,36.955,139.285,2356,Active,Honshū,283131
+Mikurajima,Stratovolcano,33.874,139.602,851,Active,Izu Islands,284041
+Shiretoko-Iozan,Stratovolcano,44.133,145.161,1562,Extinct,Hokkaidō,285090
+Akan,Caldera,43.384,144.013,1499,Extinct,Hokkaidō,285070
+Nasudake,Stratovolcanoes,37.125,139.963,1915,Active,Honshū,283150
+Minami-Hiyoshi,Submarine,23.5,141.935,-107,Active,Ogasawara Archipelago,284131
+Fukutoku-Oka-no-Ba,Submarine,24.285,141.481,-29,Active,Ogasawara,284130
+Kuchinoshima,Stratovolcanoes,29.968,129.926,628,Active,Nansei Islands,282043
+Miyakejima,Stratovolcano,34.094,139.526,775,Active,Izu Islands,284040
+Oki-Dogo,Shield,36.176,133.334,151,Extinct,Honshū,283003
+Esan,Lava domes,41.805,141.166,618,Active,Hokkaidō,285011
+Akusekijima,Stratovolcanoes,29.465,129.594,555,Extinct,Nansei Islands,282022
+Omanago Group,Lava domes,36.795,129.507,2341,Extinct,Honshū,283142
+Izu-Torishima,Stratovolcano,30.484,140.303,394,Active,Izu Islands,284090
+Iwatesan,Caldera,39.853,141.001,2038,Active,Honshū,283240
+Ata,Calderas,31.22,130.57,924,Extinct,Kyūshū,282070
+Suwanosejima,Stratovolcanoes,29.638,129.714,796,Active,Nansei Islands,282030
+Mokuyo Seamount,Submarine,28.327,140.572,-933,Extinct,Ogasawara Archipelago,284094
+Ioto,Caldera,24.751,141.289,169,Active,Ogasawara Archipelago,284120
+Yufu-Tsurumi,Lava domes,33.282,131.39,1584,Active,Kyūshū,282130
+Kita-Bayonnaise,Submarine,32.1,139.85,-360,Active,Izu Islands,284061
+Myojinsho,Submarine,31.888,139.918,11,Extinct,Izu Islands,284070
+Unzendake,Stratovolcanoes,32.761,130.299,1483,Active,Kyūshū,282100
+Myokosan,Stratovolcano,36.891,138.114,2454,Active,Honshū,283100
+Chokaisan,Stratovolcanoes,39.099,140.049,2236,Active,Honshū,283220
+Izu-Tobu,Pyroclastic cone,34.9,139.098,1406,Active,Honshū,283010
+Toya,Stratovolcano,42.544,140.839,733,Extinct,Hokkaidō,285030
+Kussharo,Caldera,43.615,144.427,574,Extinct,Hokkaidō,285080
+Nakanoshima,Stratovolcanoes,29.859,129.857,979,Active,Nansei Islands,282040
+Yakedake,Stratovolcanoes,36.227,137.587,2455,Active,Honshū,283070
+Akita-Komagatake,Stratovolcanoes,39.761,140.799,1637,Active,Honshū,283230
+Nantaisan,Stratovolcano,36.765,139.491,2486,Extinct,Honshū,283141
+Naruko,Caldera,38.729,140.734,470,Active,Honshū,283200
+Niigata-Yakeyama,Lava dome,36.921,138.036,2400,Active,Honshū,283090
+Yoteizan,Stratovolcano,42.827,140.812,1888,Active,Hokkaidō,285032
+Yonemaru-Sumiyoshiike,Maars,31.771,130.592,40,Active,Kyūshū,282081
+Yokodake,Stratovolcanoes,36.087,138.32,2480,Active,Honshū,283031
+Yokoate-jima,Stratovolcanoes,28.797,128.997,495,Active,Nansei Islands,282021
+Washiba-Kumonotaira,Shields,36.408,137.594,2924,Extinct,Honshū,283071
+Tenchozan,Crater rows,44.044,145.086,1046,Active,Hokkaidō,285083
+Takaharayama,Stratovolcano,36.9,139.777,1795,Active,Honshū,283143
+Sumisujima,Submarine,31.44,140.051,136,Active,Izu Islands,284080
+Suiyo Seamount,Submarine,28.575,140.633,-991,Extinct,Ogasawara Archipelago,284093
+Submarine Volcano NNE of Iriomotejima,Submarine,24.57,123.93,-200,Active,Nansei Islands,282010
+Sofugan,Stratovolcano,29.794,140.342,99,Active,Izu Islands,284091
+Shikotsu,Caldera,42.688,141.38,1320,Active,Hokkaidō,285040
+Shiga,Shields,36.688,138.519,2041,Extinct,Honshū,283121
+Sanbesan,Stratovolcano,35.141,132.622,1126,Active,Honshū,283002
+Rishirizan,Stratovolcano,45.179,141.242,1721,Active,Hokkaidō,285041
+Rausudake,Stratovolcano,44.076,145.122,1660,Active,Hokkaidō,285082
+Oshima-Oshima,Stratovolcano,41.51,139.367,732,Active,Hokkaidō,285010
+Numazawa,Shield,37.444,139.566,835,Active,Honshū,283151
+Norikuradake,Stratovolcanoes,36.106,137.554,3026,Active,Honshū,283060
+Nishinoshima,Caldera,27.247,140.874,25,Active,Ogasawara Archipelago,284096
+Niseko,Stratovolcanoes,42.875,140.659,1308,Active,Hokkaidō,285031
+Nikko,Submarine,23.078,142.326,-392,Active,Ogasawara Archipelago,284132
+Akandanayama,Stratovolcano,36.2,137.573,2109,Active,Honshū,283069
+Megata,Maars,39.95,139.73,291,Extinct,Honshū,283262
+Mashu,Caldera,43.572,144.561,857,Active,Hokkaidō,285081
+Maruyama,Stratovolcanoes,43.418,143.031,2013,Active,Hokkaidō,285061
+Kuttara,Stratovolcanoes,42.491,141.16,549,Active,Hokkaidō,285034
+Kurose Hole,Submarine,33.4,139.68,-107,Extinct,Izu Islands,284042
+Kuchinoerabujima,Stratovolcanoes,30.443,130.217,657,Active,Nansei Islands,282050
+Kita-Ioto,Stratovolcano,25.424,141.284,792,Extinct,Ogasawara Archipelago,284110
+Kita-Fukutokutai,Submarine,24.417,141.47,-73,Active,Ogasawara Archipelago,284121
+Kikai,Caldera,30.793,130.305,704,Active,Nansei Islands,282060
+Kaitoku Seamount,Submarine,26.127,141.102,-95,Active,Ogasawara Archipelago,284100
+Kaikata Seamount,Submarine,26.667,140.929,-165,Active,Ogasawara Archipelago,284097
+Iwakisan,Stratovolcano,40.656,140.303,1625,Active,Honshū,283270
+Io-Torishima,Andesitics,27.881,128.223,212,Active,Nansei Islands,282020
+Hokkaido-Komagatake,Stratovolcano,42.063,140.677,1131,Active,Hokkaidō,285020
+Hijiori,Caldera,38.599,140.162,552,Active,Honshū,283191
+Harunasan,Stratovolcano,36.477,138.851,1449,Active,Honshū,283122
+Hakoneyama,Calderas,35.233,139.021,1438,Active,Honshū,283020
+Hakkodasan,Stratovolcanoes,40.659,140.877,1585,Active,Honshū,283280
+Hachimantai,Stratovolcano,39.958,140.854,1613,Active,Honshū,283250
+Fukue,Shields,32.657,128.849,315,Active,Kyūshū,282091
+Doyo Seamount,Submarine,27.68,140.8,-590,Active,Ogasawara Archipelago,284095
+Asamayama,Complex,36.406,138.523,2568,Active,Honshū,283110
+Aogashima,Stratovolcano,32.458,139.759,423,Active,Izu Islands,284060
+Akita-Yakeyama,Stratovolcano,39.964,140.757,1366,Active,Honshū,283260
