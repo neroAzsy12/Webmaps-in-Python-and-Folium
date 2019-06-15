@@ -1,0 +1,63 @@
+NAME,LOCATION,STATUS,ELEV,TYPE,LAT,LON
+Baker,US-Washington,Historical,3285.000000000000000,Stratovolcanoes,48.7767982,-121.8109970
+Glacier Peak,US-Washington,Tephrochronology,3213.000000000000000,Stratovolcano,48.1118011,-121.1110001
+Rainier,US-Washington,Dendrochronology,4392.000000000000000,Stratovolcano,46.8698006,-121.7509995
+St. Helens,US-Washington,Historical,2549.000000000000000,Stratovolcano,46.1997986,-122.1809998
+Adams,US-Washington,Tephrochronology,3742.000000000000000,Stratovolcano,46.2057991,-121.4909973
+West Crater,US-Washington,Radiocarbon,1329.000000000000000,Volcanic field,45.8797989,-122.0810013
+Indian Heaven,US-Washington,Radiocarbon,1806.000000000000000,Shield volcanoes,45.9297981,-121.8209991
+Hood,US-Oregon,Historical,3426.000000000000000,Stratovolcano,45.3737984,-121.6910019
+Jefferson,US-Oregon,Varve Count,3199.000000000000000,Stratovolcano,44.6917992,-121.8010025
+Blue Lake Crater,US-Oregon,Radiocarbon,1230.000000000000000,Maar,44.4197998,-121.7710037
+Sand Mountain Field,US-Oregon,Radiocarbon,1664.000000000000000,Cinder cones,44.3797989,-121.9309998
+Washington,US-Oregon,Radiocarbon,2376.000000000000000,Shield volcano,44.3317986,-121.8310013
+Belknap,US-Oregon,Radiocarbon,2095.000000000000000,Shield volcanoes,44.2848015,-121.8410034
+North Sister Field,US-Oregon,Radiocarbon,3074.000000000000000,Complex volcano,44.1697998,-121.7710037
+South Sister,US-Oregon,Radiocarbon,3157.000000000000000,Complex volcano,44.0998001,-121.7710037
+Bachelor,US-Oregon,Tephrochronology,2763.000000000000000,Stratovolcano,43.9788017,-121.6809998
+Newberry Volcano,US-Oregon,Radiocarbon,2434.000000000000000,Shield volcano,43.7218018,-121.2210007
+Davis Lake,US-Oregon,Radiocarbon,2163.000000000000000,Volcanic field,43.5698013,-121.8209991
+Devils Garden,US-Oregon,Holocene?,1698.000000000000000,Volcanic field,43.5119019,-120.8610001
+Cinnamon Butte,US-Oregon,Holocene?,1956.000000000000000,Cinder cones,43.2407990,-122.1009979
+Squaw Ridge Lava Field,US-Oregon,Holocene?,1711.000000000000000,Volcanic field,43.4719009,-120.7509995
+Four Craters Lava Field,US-Oregon,Holocene?,1501.000000000000000,Volcanic field,43.3609009,-120.6610031
+Crater Lake,US-Oregon,Radiocarbon,2487.000000000000000,Caldera,42.9299011,-122.1210022
+Yellowstone,US-Wyoming,Tephrochronology,2805.000000000000000,Calderas,44.4299011,-110.6709976
+Diamond Craters,US-Oregon,Holocene?,1435.000000000000000,Volcanic field,43.0998993,-118.7509995
+Jordan Craters,US-Oregon,Radiocarbon,1473.000000000000000,Volcanic field,43.1498985,-117.4710007
+Saddle Butte,US-Oregon,Holocene?,1700.000000000000000,Volcanic field,42.9999008,-117.8010025
+Craters of the Moon,US-Idaho,Radiocarbon,2005.000000000000000,Cinder cones,43.4198990,-113.5009995
+Hell Half Acre,US-Idaho,Radiocarbon,1631.000000000000000,Shield volcano,43.4999008,-112.4509964
+Shoshone Lava Field,US-Idaho,Holocene,1478.000000000000000,Shield volcano,43.1799011,-114.3509979
+Jackies Butte,US-Oregon,Holocene?,1418.000000000000000,Volcanic field,42.6058998,-117.5810013
+Medicine Lake,US-California,Radiocarbon,2412.000000000000000,Shield volcano,41.5798988,-121.5709991
+Wapi Lava Field,US-Idaho,Radiocarbon,1604.000000000000000,Shield volcano,42.8799019,-113.2210007
+Shasta,US-California,Historical,4317.000000000000000,Stratovolcano,41.4198990,-122.2009964
+Brushy Butte,US-California,Holocene?,1174.000000000000000,Shield volcano,41.1778984,-121.4410019
+Big Cave,US-California,Holocene?,1259.000000000000000,Shield volcano,40.9548988,-121.3610001
+Twin Buttes,US-California,Holocene?,1631.000000000000000,Cinder cones,40.7798996,-121.6009979
+Tumble Buttes,US-California,Holocene?,2191.000000000000000,Cinder cones,40.6799011,-121.5510025
+Eagle Lake Field,US-California,Holocene?,1652.000000000000000,Fissure vents,40.6299019,-120.8310013
+Lassen Volc Center,US-California,Historical,3187.000000000000000,Stratovolcano,40.4919014,-121.5009995
+Clear Lake,US-California,Holocene,1439.000000000000000,Volcanic field,38.9698982,-122.7710037
+Steamboat Springs,US-Nevada,Pleistocene-Fumarolic,1415.000000000000000,Lava domes,39.3749008,-119.7210007
+Dotsero,US-Colorado,Radiocarbon,2230.000000000000000,Maar,39.6500015,-107.0309982
+Mono Lake Volc Field,US-California,Tephrochronology,2121.000000000000000,Cinder cones,37.9999008,-119.0309982
+Black Rock Desert,US-Utah,Radiocarbon,1800.000000000000000,Volcanic field,38.9700012,-112.5009995
+Mono Craters,US-California,Radiocarbon,2796.000000000000000,Lava domes,37.8799019,-119.0009995
+Inyo Craters,US-California,Radiocarbon,2629.000000000000000,Lava domes,37.6918983,-119.0210037
+Long Valley,US-California,Pleistocene-Fumarolic,3390.000000000000000,Caldera,37.6999016,-118.8710022
+Red Cones,US-California,Radiocarbon,2748.000000000000000,Cinder cones,37.5798988,-119.0510025
+Ubehebe Craters,US-California,Anthropology,752.000000000000000,Maars,37.0199013,-117.4509964
+Markagunt Plateau,US-Utah,Dendrochronology,2840.000000000000000,Volcanic field,37.5800018,-112.6709976
+Santa Clara,US-Utah,Holocene?,1465.000000000000000,Volcanic field,37.2570000,-113.6210022
+Bald Knoll,US-Utah,Holocene,2135.000000000000000,Cinder cones,37.3279991,-112.4010010
+Golden Trout Creek,US-California,Tephrochronology,2886.000000000000000,Volcanic field,36.3578987,-118.3209991
+Coso Volc Field,US-California,Holocene?,2400.000000000000000,Lava domes,36.0298996,-117.8209991
+Uinkaret Field,US-Arizona,Anthropology,1555.000000000000000,Volcanic field,36.3800011,-113.1309967
+Lavic Lake,US-California,Holocene?,1495.000000000000000,Volcanic field,34.7500000,-116.6210022
+Valles Caldera,US-New Mexico,Pleistocene-Fumarolic,3430.000000000000000,Caldera,35.8699989,-106.5709991
+Sunset Crater,US-Arizona,Dendrochronology,2447.000000000000000,Cinder cone,35.3699989,-111.5009995
+Amboy,US-California,Holocene,288.000000000000000,Cinder cone,34.5499992,-115.7809982
+Zuni-Bandera,US-New Mexico,Anthropology,2550.000000000000000,Volcanic field,34.7999992,-108.0009995
+Carrizozo,US-New Mexico,Holocene,1731.000000000000000,Cinder cone,33.7801018,-105.9309998
